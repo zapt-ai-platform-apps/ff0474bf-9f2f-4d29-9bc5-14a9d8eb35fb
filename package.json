@@ -1,7 +1,7 @@
 {
-    "name": "reactjs-vite-tailwind-vercel",
+    "name": "quick-replies-chatbot",
     "version": "1.0.0",
-    "description": "ReactJS app with Vite, Tailwind",
+    "description": "A chatbot app with quick replies functionality",
     "type": "module",
     "scripts": {
         "dev": "vite",
@@ -12,7 +12,8 @@
     "dependencies": {
         "@sentry/browser": "^8.41.0",
         "react": "^18.2.0",
-        "react-dom": "^18.2.0"
+        "react-dom": "^18.2.0",
+        "react-icons": "^4.10.1"
     },
     "devDependencies": {
         "@vitejs/plugin-react": "^4.3.4",
